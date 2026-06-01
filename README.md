@@ -1,4 +1,9 @@
-# Trabalho de Estatística
+<h1 align="center">Trabalho de Estatística - UFPA </h1>
+
+<div align="center">
+  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a838ce3e-0347-4830-b642-9a6ada47bd0e" />
+</div>
+
 
 ## Descrição
 <p align = justify>
