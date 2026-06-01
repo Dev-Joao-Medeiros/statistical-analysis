@@ -1,12 +1,13 @@
 # Trabalho de Estatística
 
 ## Descrição
-
+<p align = justify>
 Repositório com código e resultados do trabalho de estatística, que possui o intuito de analizar banco de dados já existente, com população, preferencialmente, acima de 10.000 (dez mil) elementos,  para realizar tarefas relacionadas à população e suas amostras. Contém scripts, dados processados e outputs (planilhas e gráficos) organizados para reprodução.
+</p>
 
 ## Dados usados
 
-(Stack Overflow Annual Developer Survey 2024)[https://www.kaggle.com/datasets/joebeachcapital/stack-overflow-annual-developer-survey-2024]
+[Stack Overflow Annual Developer Survey 2024](https://www.kaggle.com/datasets/joebeachcapital/stack-overflow-annual-developer-survey-2024)
 
 ## Requisitos
 
